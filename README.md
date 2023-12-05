@@ -52,7 +52,7 @@ No se realizó la sección de pruebas, pero originalmente se tenía la intenció
 
 ### Seccion 3
 
-#### Consulta de datos en sql server
+#### Consulta de datos en Swagger guardados en sql server
 
 ![Base de datos ](https://raw.githubusercontent.com/AlwayzCesta/Prueba/main/Imagenes/Captura4.png)
 
