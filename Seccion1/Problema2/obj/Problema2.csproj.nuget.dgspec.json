@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/Problema2.csproj": {}
+    "/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/Problema2.csproj": {}
   },
   "projects": {
-    "/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/Problema2.csproj": {
+    "/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/Problema2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/Problema2.csproj",
+        "projectUniqueName": "/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/Problema2.csproj",
         "projectName": "Problema2",
-        "projectPath": "/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/Problema2.csproj",
+        "projectPath": "/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/Problema2.csproj",
         "packagesPath": "/home/mailo/.nuget/packages/",
-        "outputPath": "/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/",
+        "outputPath": "/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mailo/.nuget/NuGet/NuGet.Config"

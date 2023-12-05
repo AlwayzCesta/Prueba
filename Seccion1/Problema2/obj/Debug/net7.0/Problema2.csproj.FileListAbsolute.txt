@@ -13,3 +13,18 @@
 /home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.pdb
 /home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.genruntimeconfig.cache
 /home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/ref/Problema2.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2.deps.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2.runtimeconfig.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2.pdb
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.csproj.AssemblyReference.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.AssemblyInfoInputs.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.AssemblyInfo.cs
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.csproj.CoreCompileInputs.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/refint/Problema2.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.pdb
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.genruntimeconfig.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/ref/Problema2.dll

@@ -474,11 +474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/mailo/MailoDev/PruebaTecnica/Seccion2/ApiMid/ApiMid.csproj",
+      "projectUniqueName": "/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/ApiMid.csproj",
       "projectName": "ApiMid",
-      "projectPath": "/home/mailo/MailoDev/PruebaTecnica/Seccion2/ApiMid/ApiMid.csproj",
+      "projectPath": "/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/ApiMid.csproj",
       "packagesPath": "/home/mailo/.nuget/packages/",
-      "outputPath": "/home/mailo/MailoDev/PruebaTecnica/Seccion2/ApiMid/obj/",
+      "outputPath": "/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/mailo/.nuget/NuGet/NuGet.Config"

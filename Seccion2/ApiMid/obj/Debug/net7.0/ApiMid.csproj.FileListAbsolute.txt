@@ -31,3 +31,36 @@
 /home/mailo/MailoDev/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.pdb
 /home/mailo/MailoDev/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.genruntimeconfig.cache
 /home/mailo/MailoDev/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ref/ApiMid.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/appsettings.Development.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/appsettings.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/ApiMid
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/ApiMid.deps.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/ApiMid.runtimeconfig.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/ApiMid.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/ApiMid.pdb
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.csproj.AssemblyReference.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.AssemblyInfoInputs.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.AssemblyInfo.cs
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.csproj.CoreCompileInputs.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.MvcApplicationPartsAssemblyInfo.cs
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.MvcApplicationPartsAssemblyInfo.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/staticwebassets/msbuild.ApiMid.Microsoft.AspNetCore.StaticWebAssets.props
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/staticwebassets/msbuild.build.ApiMid.props
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.ApiMid.props
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.ApiMid.props
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/staticwebassets.pack.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/staticwebassets.build.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/staticwebassets.development.json
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/scopedcss/bundle/ApiMid.styles.css
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.csproj.CopyComplete
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/refint/ApiMid.dll
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.pdb
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ApiMid.genruntimeconfig.cache
+/mnt/c/Users/oscar/OneDrive - Universidad Distrital Francisco José de Caldas/Documentos/Mailo Dev/Gurusoft/PruebaTecnica/Seccion2/ApiMid/obj/Debug/net7.0/ref/ApiMid.dll
