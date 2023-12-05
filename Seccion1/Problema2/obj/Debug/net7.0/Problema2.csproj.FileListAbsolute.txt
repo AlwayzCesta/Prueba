@@ -1,0 +1,15 @@
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2.deps.json
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2.runtimeconfig.json
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2.dll
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/bin/Debug/net7.0/Problema2.pdb
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.csproj.AssemblyReference.cache
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.GeneratedMSBuildEditorConfig.editorconfig
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.AssemblyInfoInputs.cache
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.AssemblyInfo.cs
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.csproj.CoreCompileInputs.cache
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.dll
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/refint/Problema2.dll
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.pdb
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/Problema2.genruntimeconfig.cache
+/home/mailo/MailoDev/PruebaTecnica/Seccion1/Problema2/obj/Debug/net7.0/ref/Problema2.dll

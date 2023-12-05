@@ -1,0 +1,30 @@
+﻿@model MidleViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container text-info text-center">
+    <h1>Consultas</h1>
+</div>
+
+
+<div class="list-group">
+    <div class="card cascading-right list-group-item customcard">
+    @foreach (var midle in Model.Listamidles)
+    {
+            <div class="card border-secondary mb-3" >
+                <div div class="card-header card-title d-flex justify-content-between flex-row bd-highlight">
+                    <h5>@midle.Usuario</h5>
+                    
+                </div>
+                <div class="card-body text-black d-flex justify-content-between ">
+                    <p class="card-title ">Request: @midle.Request - Fecha: @midle.FechaRequest</p>
+                </div>
+                <div class="card-body text-black d-flex justify-content-between ">
+                    <p class="card-text">Response: @midle.Response - Fecha: @midle.FechaResponse</p>
+                </div>
+            </div>
+    }
+    </div>
+</div>
+

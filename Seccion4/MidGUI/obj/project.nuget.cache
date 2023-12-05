@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+ESkVTf4lIUNbrnhoewd818n87vb6jo5sTcRIaBsC/RSOGGbSQzsJiR1tF6JgQOlwlEClfK3GD9hMhQgj9bQiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oscar\\OneDrive - Universidad Distrital Francisco José de Caldas\\Documentos\\Mailo Dev\\Gurusoft\\PruebaTecnica\\Seccion4\\MidGUI\\MidGUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oscar\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
